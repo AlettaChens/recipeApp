@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipe_type_list">
+        <item>热菜</item>
+        <item>凉菜</item>
+        <item>干锅</item>
+        <item>火锅</item>
+        <item>清蒸</item>
+        <item>小吃</item>
+        <item>甜品</item>
+        <item>家常</item>
+    </string-array>
+</resources>

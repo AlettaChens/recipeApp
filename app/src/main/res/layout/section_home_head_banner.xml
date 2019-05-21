@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_banner"
+    android:layout_width="match_parent"
+    android:layout_height="180dp">
+
+    <com.youth.banner.Banner
+        android:id="@+id/vp_banner"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_alignParentTop="true" />
+</LinearLayout>
