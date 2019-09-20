@@ -1,4 +1,4 @@
-# 基于Android的Finding Cooking APP的设计与开发
+# 基于Android的Find Cooking 菜谱APP的设计与开发
 系统设计：用户管理、菜品展示、菜品推荐、交流平台、后台管理。
 主要功能模块：
 * 用户管理模块：用户的注册登录功能。
